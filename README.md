@@ -69,7 +69,7 @@ adb install app-release.apk
 
 ## Testing
 
-We use Jest runner for unit test with combination of react testing library.
+We use Jest runner for unit tests with combination of react testing library.
 
 ### Jest
 
